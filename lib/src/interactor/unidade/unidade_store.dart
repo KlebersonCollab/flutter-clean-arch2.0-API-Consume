@@ -1,6 +1,6 @@
-import 'package:agrocheck/data/unidade/unidade_api_service.dart';
-import 'package:agrocheck/interactor/unidade/unidade_model.dart';
-import 'package:agrocheck/interactor/unidade/unidade_state.dart';
+import 'package:agrocheck/src/data/unidade/unidade_api_service.dart';
+import 'package:agrocheck/src/interactor/unidade/unidade_model.dart';
+import 'package:agrocheck/src/interactor/unidade/unidade_state.dart';
 import 'package:flutter/material.dart';
 
 abstract class UnidadeStoreInterface {

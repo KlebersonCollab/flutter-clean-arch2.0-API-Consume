@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:agrocheck/interactor/unidade/unidade_model.dart';
+import 'package:agrocheck/src/interactor/unidade/unidade_model.dart';
 import 'package:http/http.dart' as http;
 
 

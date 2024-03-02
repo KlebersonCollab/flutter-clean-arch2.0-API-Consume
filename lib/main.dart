@@ -1,4 +1,4 @@
-import 'package:agrocheck/app_widget.dart';
+import 'package:agrocheck/src/app_widget.dart';
 import 'package:flutter/material.dart';
 
 void main() {

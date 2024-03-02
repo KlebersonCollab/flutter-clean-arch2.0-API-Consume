@@ -1,7 +1,7 @@
 // ignore_for_file: library_private_types_in_public_api, sort_child_properties_last
 
-import 'package:agrocheck/interactor/unidade/unidade_model.dart';
-import 'package:agrocheck/interactor/unidade/unidade_store.dart';
+import 'package:agrocheck/src/interactor/unidade/unidade_model.dart';
+import 'package:agrocheck/src/interactor/unidade/unidade_store.dart';
 import 'package:flutter/material.dart';
 
 class UnidadePage extends StatelessWidget {

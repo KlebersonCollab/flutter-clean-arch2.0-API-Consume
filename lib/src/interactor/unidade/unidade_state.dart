@@ -1,4 +1,4 @@
-import 'package:agrocheck/interactor/unidade/unidade_model.dart';
+import 'package:agrocheck/src/interactor/unidade/unidade_model.dart';
 
 class UnidadeState{
   final bool isLoading;
